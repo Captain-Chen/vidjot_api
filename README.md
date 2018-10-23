@@ -5,8 +5,10 @@ Write down and keep track of your potential video ideas with this application. I
 * body-parser
 * express
 * express-handlebars
+* express-session
 * method-override
 * mongoose
+* connect-flash
 
 ### how to install dependencies and run the application
 * run *'npm install'* to get all of the dependencies
